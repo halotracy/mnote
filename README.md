@@ -1,6 +1,8 @@
-# mnote > An electron-vue project ## Build Setup
+# mnote > An electron-vue project
 
 ![Img](http://uploadgif.55.la/upload/temp/2017/05/05/00/9391262933.gif)
+
+# Build Setup
 
 ``` bash
 # install dependencies
