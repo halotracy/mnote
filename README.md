@@ -1,7 +1,13 @@
-# mnote 
-## An electron-vue project
+# mnote
+
+An electron-vue project
 
 ![Img](http://uploadgif.55.la/upload/temp/2017/05/05/00/9391262933.gif)
+![Img](http://uploadgif.55.la/upload/temp/2017/05/05/00/1556244188.gif)
+![Img](http://uploadgif.55.la/upload/temp/2017/05/05/00/2650557481.gif)
+![Img](http://uploadgif.55.la/upload/temp/2017/05/05/00/7897516093.gif)
+![Img](http://uploadgif.55.la/upload/temp/2017/05/05/00/2923371577.gif)
+
 
 # Build Setup
 
