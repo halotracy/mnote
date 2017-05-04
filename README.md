@@ -1,6 +1,6 @@
 # mnote > An electron-vue project ## Build Setup
 
-![Img](../../../Illustration/mnote)
+![Img](http://uploadgif.55.la/upload/temp/2017/05/04/23/9687634771.gif)
 
 ``` bash
 # install dependencies
