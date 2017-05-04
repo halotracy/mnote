@@ -19,19 +19,19 @@
 			</li>
 			<li>
 				<a :href='htmlDataUrl' :download='titleHtml' @mouseenter='createUrl("html")'>
-					<i class="fa fa-html5"></i>
+					<i class="fa fa-file-code-o"></i>
 					Save as .html
 				</a>
 			</li>
 			<li>
 				<a :href='mdDataUrl' :download='titleMd' @mouseenter='createUrl("md")'>
-					<i class="fa fa-download"></i>
+					<i class="fa fa-file-text-o"></i>
 					Save as .md
 				</a>
 			</li>
 		</ul>
 		<div class="copy-right">
-			Copyright © 2017 tracy
+			Copyright © 2017 halotracy
 		</div>
 	</div>
 </template>

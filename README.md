@@ -1,5 +1,7 @@
 # mnote > An electron-vue project ## Build Setup
 
+![Img](../../../Illustration/mnote)
+
 ``` bash
 # install dependencies
 npm install
@@ -13,6 +15,8 @@ npm run build
 # run webpack in production
 npm run pack
 ```
+
+
 More information can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/docs/npm_scripts.html).
 
 ---
