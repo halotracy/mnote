@@ -1,0 +1,19 @@
+{
+  "name": "mnote",
+  "description": "mnote",
+  "author": "tracy",
+  "private": true,
+  "scripts": {
+    "dev": "webpack-dev-server --inline --hot",
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "dependencies": {
+    "font-awesome": "^4.6.3",
+    "fontawesome": "^4.5.0",
+    "highlight.js": "^9.7.0",
+    "marked": "^0.3.6",
+    "vue": "^2.0.0-rc.8",
+    "xss": "^0.2.13"
+  },
+  "devDependencies": {}
+}
